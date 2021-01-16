@@ -11,7 +11,7 @@ print(string.upper())
 #จงเขียนคำสั่งเพื่อแสดข้อความ "I am the best programmer" ให้เป็นตัวพิมเล็กทั้งหมด
 print(string.lower())
 #จงเขียนคำสั่งเพื่อแสดข้อความ "I am the best programmer" ที่ถูกแทนที่อักษร e ด้วย z ทั้งหมด
-print(string.replace("e", "z"))
+print(string.replace("e", "z")) #gg ez
 #จงเติมคำในช่องว่าเพื่อแสดงชื่อ
 myname = "tatchai"
 txt = "{} is the best programmer"
